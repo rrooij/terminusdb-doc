@@ -45,7 +45,7 @@ footer_content: "Copyright &copy; 2020 - TerminusDB |  Distributed by an <a href
 color_scheme: nil
 
 sass:
-  sass_dir: _sass
+  sass_dir: docs/_sass
   style: compressed
 
 # Google Analytics Tracking (optional)
